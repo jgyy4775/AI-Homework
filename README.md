@@ -1,3 +1,3 @@
 # AI-Homework
 
-![AI-Homework](image/model.jpg)
+![AI-Homework](image/introduction.jpg)
