@@ -1,2 +1,3 @@
 # AI-Homework
-AI class homework (Image Classification)
+
+![AI-Homework](image/model.jpg)
