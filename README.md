@@ -38,7 +38,8 @@
   * Hidden neuron수에 따른 성능 비교
   * 결과에 대한 분석 및 평가
      
-
+  
+- - -
 ### 부록 1) 손글씨 데이터 집합 MNIST
 ![AI-Homework](image/mnist.jpg)
 * 데이터 분할 및 크기
